@@ -1,37 +1,118 @@
-## Welcome to GitHub Pages
+# Aránzazu Alzugaray Medina
 
-You can use the [editor on GitHub](https://github.com/danicarrion/arancha-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem fistrum mamaar benemeritaar torpedo fistro te voy a borrar el cerito caballo blanco caballo negroorl ese pedazo de. Fistro benemeritaar no te digo trigo por no llamarte Rodrigor hasta luego Lucas está la cosa muy malar ese pedazo de te va a hasé pupitaa. Apetecan caballo blanco caballo negroorl al ataquerl te va a hasé pupitaa ese pedazo de mamaar mamaar no puedor me cago en tus muelas va usté muy cargadoo hasta luego Lucas. A gramenawer ahorarr caballo blanco caballo negroorl fistro. Sexuarl no puedor a wan se calle ustée qué dise usteer condemor a peich. Benemeritaar mamaar benemeritaar diodeno papaar papaar a wan mamaar sexuarl de la pradera. Amatomaa caballo blanco caballo negroorl benemeritaar no puedor no puedor mamaar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Experiencia laboral
 
-### Markdown
+## Directora y propietaria de Centro Infantil
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Centro Infantil Piruletas (Valladolid)
 
-```markdown
-Syntax highlighted code block
+Dic 2009 - Actualidad
 
-# Header 1
-## Header 2
-### Header 3
+## Psicopedagoga
 
-- Bulleted
-- List
+Jun 2002 - Actualidad
 
-1. Numbered
-2. List
+## Profesora de Centro Infantil
 
-**Bold** and _Italic_ and `Code` text
+Escuela Infantil Pequeña Alameda (Valladolid)
 
-[Link](url) and ![Image](src)
-```
+Sep 2008 - Nov 2009
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Profesora de Centro Infantil
 
-### Jekyll Themes
+Escuela Infantil La Casa del Duende (Arroyo de la Encomienda, Valladolid)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danicarrion/arancha-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Sep 2007 - Jul 2008
 
-### Support or Contact
+## Monitora de actividades extraescolares
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+CEIP Joaquín Turina (Sevilla)
+
+Ene 2004 - Jun 2006
+
+## Directora y propietaria de Centro Infantil
+
+Escuela Infantil El Sonajero (Dos Hermanas, Sevilla)
+
+Sep 2004 - Dic 2005
+
+## Profesora de Centro Infantil
+
+Escuela Infantil Snoopy Golf (Dos Hermanas, Sevilla)
+
+Ene 2003 - Jul 2004
+
+## Auxiliar administrativo
+
+Nexgrup (Sevilla)
+
+Ene 2000 - Dec 2001
+
+# Educación
+
+## Licenciatura en Psicopedagogía
+
+Universidad de Sevilla
+
+2000 - 2002
+
+## Alumna interna
+
+Departamento de "Psicología evolutiva y la educación" de la Universidad de Sevilla
+
+Ene 2000 - Ene 2002
+
+Elaboración de materiales alternativos de comunicación para niños con dificultades en el área de la comunicación y lenguaje.
+
+## Diplomatura en Educación Infantil
+
+Universidad de Sevilla
+
+1997 - 2000
+
+## Alumna interna
+
+Departamento de Creatividad de la Universidad de Sevilla
+
+Ene 1997 - Ene 1998
+
+Trabajando como alumna interna en dicho departamento realizando un proyecto de investigación en diferentes aulas de los colegios públicos de la capital hispalense. El trabajo culminó en un estudio sobre el desarrollo de la creatividad en los alumnos de 3, 4 y 5 años.
+
+## Otros cursos
+
+* Lengua de Signos Española
+
+# Voluntariado
+
+## Presidenta
+
+REA (Asociación castellano leonesa para la defensa de la infancia y juventud)
+
+Sep 2020 - Actualidad
+
+## Vocal
+
+REA (Asociación castellano leonesa para la defensa de la infancia y juventud)
+
+Ene 2010 - Sep 2020
+
+# Otros proyectos
+
+## Colaboradora en programa de radio
+
+Programa "La experiencia de leer" en la radio de la Universidad de Sevilla
+
+Ene 2022 - Actualidad
+
+Colaboradora en dicho programa, orientando a los oyentes sobre literatura infantil y la importancia de inculcar la lectura en los niños desde edades tempranas.Colaboradora en dicho programa, orientando a los oyentes sobre literatura infantil y la importancia de inculcar la lectura en los niños desde edades tempranas.
+
+## Colaboradora en programa de radio
+
+Programa de radio "Esos locos bajitos" de la cadena "Aquí en Valladolid"
+
+Ene 2013 - Ene 2016Jan 2013 - Jan 2016
+
+Realización de entrevistas semanales sobre temas relacionados con la educación de los más pequeños de la casa. Analizando casos prácticos de situaciones con los niños para orientar a las familias sobre las actuaciones más adecuadas. Principalmente trataba el desarrollo integral en las edades más tempranas, 0-3 años.
+
